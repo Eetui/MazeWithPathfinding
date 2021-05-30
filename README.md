@@ -1,6 +1,6 @@
 # MazeWithPathfinding
 
-Maze generator with pathfinding
+Maze generator with pathfinding made with Unity 2020.3.7f1
 
 ## Keys
 
